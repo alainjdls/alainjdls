@@ -1,4 +1,4 @@
-<h1>Hi, I'm AJ, an <a href="www.linkedin.com/in/alain-joseph-de-los-santos-148a65300">IT Professional
+<h1>Hi, I'm AJ, an <a href="www.linkedin.com/in/alainjosephdelossantos">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
