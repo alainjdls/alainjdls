@@ -18,4 +18,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/aj.dls/
-[linkedin]: www.linkedin.com/in/alain-joseph-de-los-santos-148a65300
+[linkedin]: www.linkedin.com/in/alainjosephdelossantos
