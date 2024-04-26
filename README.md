@@ -7,8 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alainjdls/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alainjdls/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/alainjdls/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alainjdls/azure-network-protocols)
+  - [Creating a Virtual Machine on Azure](https://github.com/roslyndwilliams/virtual-machine)
+  - [Install and Configure the File Server Role](https://github.com/RoslyndWilliams/install-and-configure-the-file-server-role)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/roslyndwilliams/configure-ad)
+
 
 <h2>🤳Connect with me:</h2>
 
